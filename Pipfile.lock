@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c5ac23b61d48dee7a379933f62ab95ab85d0e62357dea01f03e579ad7810071e"
+            "sha256": "633be80bca07f1cb060781a2337f5a75773eb62aa2b5a12f38fc5f527382840a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -69,6 +69,10 @@
             ],
             "index": "pypi",
             "version": "==0.24.2"
+        },
+        "pyappcalc": {
+            "editable": true,
+            "path": "."
         },
         "pyqt5": {
             "hashes": [
